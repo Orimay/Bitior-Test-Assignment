@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP Design Fundamentals", "OOP Design Fundamentals\OOP Design Fundamentals.csproj", "{59085D99-EEAC-477D-A569-05C515C8C403}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "Algorithms\Algorithms.csproj", "{67162328-349A-41B1-AABA-F528F60EE182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59085D99-EEAC-477D-A569-05C515C8C403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59085D99-EEAC-477D-A569-05C515C8C403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59085D99-EEAC-477D-A569-05C515C8C403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59085D99-EEAC-477D-A569-05C515C8C403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67162328-349A-41B1-AABA-F528F60EE182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67162328-349A-41B1-AABA-F528F60EE182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67162328-349A-41B1-AABA-F528F60EE182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67162328-349A-41B1-AABA-F528F60EE182}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66576B55-496E-4998-8A38-15CE5A642183}
+	EndGlobalSection
+EndGlobal
